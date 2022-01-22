@@ -102,6 +102,8 @@ public class DisplaySettings extends DashboardFragment {
                 "android.theme.customization.accent_color"));
         controllers.add(new OverlayCategoryPreferenceController(context,
                 "android.theme.customization.adaptive_icon_shape"));
+        controllers.add(new OverlayCategoryPreferenceController(context,
+                "android.theme.customization.darkui"));
         return controllers;
     }
 
