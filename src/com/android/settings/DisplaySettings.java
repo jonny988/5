@@ -104,6 +104,8 @@ public class DisplaySettings extends DashboardFragment {
                 "android.theme.customization.adaptive_icon_shape"));
         controllers.add(new OverlayCategoryPreferenceController(context,
                 "android.theme.customization.darkui"));
+        controllers.add(new OverlayCategoryPreferenceController(context,
+                "android.theme.customization.qspanel"));
         return controllers;
     }
 

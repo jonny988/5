@@ -5166,4 +5166,6 @@
     <string name="three_finger_gesture_summary">Проведите тремя пальцами вниз по экрану для сохранения его снимка</string>
     <!-- [CHAR_LIMIT=NONE] Developer Settings: Title of the setting which enables overlays to customize the dark mode colors -->
     <string name="theme_customization_darkui_title">Варианты тёмного оформления</string>
+    <!-- [CHAR_LIMIT=NONE] Developer Settings: Title of the setting which enables overlays to customize the QS Panel layout (e.g. set 3x3 icons). -->
+    <string name="theme_customization_qspanel_title">Сетка быстрых настроек</string>
 </resources>

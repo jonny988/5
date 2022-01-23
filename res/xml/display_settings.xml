@@ -223,5 +223,8 @@
      <ListPreference
         android:key="android.theme.customization.darkui"
         android:title="@string/theme_customization_darkui_title"/>
+     <ListPreference
+        android:key="android.theme.customization.qspanel"
+        android:title="@string/theme_customization_qspanel_title"/>
     </PreferenceCategory>   
 </PreferenceScreen>
