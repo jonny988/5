@@ -107,19 +107,8 @@ public class DarkUIPreferenceController extends TogglePreferenceController imple
         if (mPreference == null) {
             return;
         }
-        boolean isBatterySaver = isPowerSaveMode();
-        mPreference.setEnabled(!isBatterySaver);
-        if (isBatterySaver) {
-            int stringId = isChecked()
-                    ? R.string.dark_ui_mode_disabled_summary_dark_theme_on
-                    : R.string.dark_ui_mode_disabled_summary_dark_theme_off;
-            mPreference.setSummary(mContext.getString(stringId));
-        }
-    }
-
-    @VisibleForTesting
-    boolean isPowerSaveMode() {
-        return mPowerManager.isPowerSaveMode();
+    
+    mPreference.setSummary(null);
     }
 
     @Override
