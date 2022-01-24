@@ -114,6 +114,8 @@ public class DisplaySettings extends DashboardFragment {
                 "android.theme.customization.statusbar"));
         controllers.add(new OverlayCategoryPreferenceController(context,
                 "android.theme.customization.padding"));
+        controllers.add(new OverlayCategoryPreferenceController(context,
+                "android.theme.customization.rounded"));
         return controllers;
     }
 

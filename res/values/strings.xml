@@ -12262,4 +12262,6 @@
     <string name="theme_customization_statusbar_title">Status Bar spacing</string>
     <!-- [CHAR_LIMIT=NONE] Developer Settings: Title of the setting which enables overlays to customize the statusbar start and end padding (e.g. set 12dp paddings) -->
     <string name="theme_customization_padding_title">Status Bar padding</string>
+    <!-- [CHAR_LIMIT=NONE] Developer Settings: Title of the setting which enables overlays to customize the rounded corners of display (e.g. set 12dp paddings) -->
+    <string name="theme_customization_rounded_title">Display rounded corners</string>
 </resources>
