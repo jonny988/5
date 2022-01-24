@@ -232,5 +232,8 @@
      <ListPreference
         android:key="android.theme.customization.speedui"
         android:title="@string/theme_customization_speedui_title"/>
+     <ListPreference
+        android:key="android.theme.customization.statusbar"
+        android:title="@string/theme_customization_statusbar_title"/>
     </PreferenceCategory>   
 </PreferenceScreen>
