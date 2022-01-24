@@ -5176,4 +5176,6 @@
     <string name="screenshot_shutter_sound_title">Звук снимка экрана</string>
     <!-- [CHAR_LIMIT=NONE] Developer Settings: Title of the setting which enables overlays to customize the statusbar icons spacing (e.g. set 2dp paddings) -->
     <string name="theme_customization_statusbar_title">Разделение иконок в строке состояния</string>
+     <!-- [CHAR_LIMIT=NONE] Developer Settings: Title of the setting which enables overlays to customize the statusbar start and end padding (e.g. set 12dp paddings) -->
+    <string name="theme_customization_padding_title">Отступы строки состояния</string>
 </resources>

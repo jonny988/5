@@ -112,6 +112,8 @@ public class DisplaySettings extends DashboardFragment {
                 "android.theme.customization.speedui"));
         controllers.add(new OverlayCategoryPreferenceController(context,
                 "android.theme.customization.statusbar"));
+        controllers.add(new OverlayCategoryPreferenceController(context,
+                "android.theme.customization.padding"));
         return controllers;
     }
 
