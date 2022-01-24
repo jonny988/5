@@ -108,6 +108,8 @@ public class DisplaySettings extends DashboardFragment {
                 "android.theme.customization.qspanel"));
         controllers.add(new OverlayCategoryPreferenceController(context,
                 "android.theme.customization.qsalpha"));
+        controllers.add(new OverlayCategoryPreferenceController(context,
+                "android.theme.customization.speedui"));
         return controllers;
     }
 
