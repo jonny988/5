@@ -116,6 +116,8 @@ public class DisplaySettings extends DashboardFragment {
                 "android.theme.customization.padding"));
         controllers.add(new OverlayCategoryPreferenceController(context,
                 "android.theme.customization.rounded"));
+        controllers.add(new OverlayCategoryPreferenceController(context,
+                "android.theme.customization.uicorners"));
         return controllers;
     }
 

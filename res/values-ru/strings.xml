@@ -5179,4 +5179,5 @@
      <!-- [CHAR_LIMIT=NONE] Developer Settings: Title of the setting which enables overlays to customize the statusbar start and end padding (e.g. set 12dp paddings) -->
     <string name="theme_customization_padding_title">Отступы строки состояния</string>
     <string name="theme_customization_rounded_title">Закругление углов экрана</string>
+    <string name="theme_customization_uicorners_title">Закругление UI элементов</string>
 </resources>

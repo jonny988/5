@@ -12264,4 +12264,5 @@
     <string name="theme_customization_padding_title">Status Bar padding</string>
     <!-- [CHAR_LIMIT=NONE] Developer Settings: Title of the setting which enables overlays to customize the rounded corners of display (e.g. set 12dp paddings) -->
     <string name="theme_customization_rounded_title">Display rounded corners</string>
+    <string name="theme_customization_uicorners_title">UI rounded corners</string>
 </resources>

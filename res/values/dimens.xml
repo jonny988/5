@@ -129,7 +129,7 @@
     <dimen name="search_bar_margin">16dp</dimen>
 
     <dimen name="search_bar_height">48dp</dimen>
-    <dimen name="search_bar_corner_radius">2dp</dimen>
+    <dimen name="search_bar_corner_radius">@*android:dimen/rounded_corners_ui_core</dimen>
     <dimen name="search_bar_text_size">16dp</dimen>
     <dimen name="search_bar_card_elevation">2dp</dimen>
     <dimen name="search_bar_content_inset">64dp</dimen>
@@ -343,7 +343,7 @@
     <dimen name="contextual_card_icon_padding_start">14dp</dimen>
     <dimen name="contextual_card_text_padding_start">16dp</dimen>
     <dimen name="contextual_card_padding_end">16dp</dimen>
-    <dimen name="contextual_card_corner_radius">@*android:dimen/config_dialogCornerRadius</dimen>
+    <dimen name="contextual_card_corner_radius">@*android:dimen/rounded_corners_ui_core</dimen>
     <dimen name="contextual_full_card_padding_end">12dp</dimen>
     <dimen name="contextual_half_card_padding_top">12dp</dimen>
     <dimen name="contextual_half_card_padding_bottom">16dp</dimen>
@@ -426,7 +426,7 @@
     <dimen name="output_switcher_slice_padding_top">11dp</dimen>
     <dimen name="output_switcher_slice_max_height">458dp</dimen>
     <dimen name="output_switcher_panel_icon_size">52dp</dimen>
-    <dimen name="output_switcher_panel_icon_corner_radius">16dp</dimen>
+    <dimen name="output_switcher_panel_icon_corner_radius">@*android:dimen/rounded_corners_ui_core</dimen>
 
     <!-- Text padding for EmptyTextSettings -->
     <dimen name="empty_text_padding">24dp</dimen>

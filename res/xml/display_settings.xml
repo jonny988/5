@@ -241,5 +241,8 @@
      <ListPreference
         android:key="android.theme.customization.rounded"
         android:title="@string/theme_customization_rounded_title"/>
+     <ListPreference
+        android:key="android.theme.customization.uicorners"
+        android:title="@string/theme_customization_uicorners_title"/>
     </PreferenceCategory>   
 </PreferenceScreen>
