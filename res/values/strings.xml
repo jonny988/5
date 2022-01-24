@@ -12256,4 +12256,6 @@
     <string name="theme_customization_qsalpha_title">QS Alpha opacity</string>
     <!-- [CHAR_LIMIT=NONE] Developer Settings: Title of the setting which enables overlays to customize the SystemUI speed performance -->
     <string name="theme_customization_speedui_title">UI Speed up/Powersaving</string>
+    <!-- Screenshot shutter -->
+    <string name="screenshot_shutter_sound_title">Screenshot sound</string>
 </resources>
