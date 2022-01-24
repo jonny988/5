@@ -226,5 +226,8 @@
      <ListPreference
         android:key="android.theme.customization.qspanel"
         android:title="@string/theme_customization_qspanel_title"/>
+     <ListPreference
+        android:key="android.theme.customization.qsalpha"
+        android:title="@string/theme_customization_qsalpha_title"/>
     </PreferenceCategory>   
 </PreferenceScreen>

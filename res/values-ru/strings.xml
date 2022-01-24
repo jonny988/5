@@ -5168,4 +5168,6 @@
     <string name="theme_customization_darkui_title">Варианты тёмного оформления</string>
     <!-- [CHAR_LIMIT=NONE] Developer Settings: Title of the setting which enables overlays to customize the QS Panel layout (e.g. set 3x3 icons). -->
     <string name="theme_customization_qspanel_title">Сетка быстрых настроек</string>
+    <!-- [CHAR_LIMIT=NONE] Developer Settings: Title of the setting which enables overlays to customize the QS Panel alpha opacity -->
+    <string name="theme_customization_qsalpha_title">Прозрачность панели быстрых настроек</string>
 </resources>
