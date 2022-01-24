@@ -178,8 +178,8 @@ public class OverlayCategoryPreferenceController extends DeveloperOptionsPrefere
         }
 
         mPreference.setEntries(labels.toArray(new String[labels.size()]));
-        mPreference.setEntryValues(pkgs.toArray(new String[pkgs.size()]));
-        mPreference.setValue(selectedPkg);
+        mPreference.setEntryValues(labels.toArray(new String[labels.size()]));
+        mPreference.setValue(selectedLabel);
         mPreference.setSummary(selectedLabel);
     }
 
